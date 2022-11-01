@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.17.0
-  firebase_analytics: ^10.0.3
+  firebase_analytics:
   cloud_firestore:
 
   
