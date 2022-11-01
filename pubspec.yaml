@@ -1,20 +1,18 @@
 name: extentions
 description: A new Flutter project.
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.16.2 <3.0.0'
+  sdk: ">=2.16.2 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   intl: ^0.17.0
-
-  
-
+  cloud_firestore:
 
 dev_dependencies:
   flutter_test:
@@ -23,5 +21,4 @@ dev_dependencies:
   lint: ^1.8.2
 
 flutter:
-
   uses-material-design: true
